@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="c_examples\누산복습1.c">
+    <ClCompile Include="덧셈.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="곱셈.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스엪.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스엪2.C">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
