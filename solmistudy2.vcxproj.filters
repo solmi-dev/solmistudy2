@@ -27,5 +27,50 @@
     <ClCompile Include="스엪2.C">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="설문조사.C">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실수예제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="영화.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="카페주문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="score.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="size.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="행성.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="거스름돈.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hard.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="온도.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="angry.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="angry심화.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="체중.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="채중2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
